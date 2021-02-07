@@ -1,0 +1,7 @@
+{
+    "wifi": {
+        "ssid": "",
+        "password": ""
+    },
+    "server": { "mqtt": "" }
+}
