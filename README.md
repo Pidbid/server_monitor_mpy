@@ -1,7 +1,7 @@
 # server_monitor_mpy
 A hardware server monitoring system made of Esp8266-01s and SSD1306
 一个监控VPS服务器的ESP8266-01与SSD1306屏幕的项目
-![ssd image](https://github.com/Pidbid/server_monitor_mpy/show/show_01.jpg)
+![ssd image](https://github.com/Pidbid/server_monitor_mpy/blob/master/show/show_01.jpg)
 ## 文件结构
 
 >...esp  
